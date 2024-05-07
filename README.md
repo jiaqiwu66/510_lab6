@@ -19,3 +19,7 @@ Contains 2 parts:
 2. Provide some travel website as reference, such as Michelin Guide, Lonely Planet, Trip advisor, Yelp, Expedia. Gemini needs to make recommendations based on above resource and give an overall rates to let user easier to choose.
 3. Summarize the conversation, use a loop to get a list of famous sights as the answer from Gemini. Saving in a list can make “advanced search” possible.
 4. Based on 3, using Duck Duck Go python search library to search the images for each sights saved in the list and show the images on the travel plan.
+
+## Next step
+- I try many ways but still can't get all the correct links, so that might be the next step.
+- Sometimes will generate images with lo-quality. I may try to fix it. 
